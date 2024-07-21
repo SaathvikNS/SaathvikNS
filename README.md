@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi there! I'm Saathvik N S
 
-<!--
-**SaathvikNS/SaathvikNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and rapid learner currently pursuing an MCA and excited to dive into the world of technology. With a solid foundation and above-intermediate skills in Python, C, C++, MERN stack, HTML, CSS and JavaScript, I'm always on the lookout for new challenges and opportunities to grow.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Proficiency:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages: Above intermediate in Python, C, C++, JavaScript, HTML, CSS and MERN stack.
+Web Technologies: Lower intermediate in Java and proficient at using Linux environments.
+Learning Agility: Capable of mastering new skills and technologies within a matter of days.
+
+### 🎓 Education:
+
+MCA 1st Year Student: Currently studying in my first year, eager to apply and expand my knowledge in various tech domains.
+
+### 🌟 Interests & Goals:
+
+Keenly interested in exploring a wide range of opportunities in technology.
+Dedicated to developing innovative projects and contributing to exciting tech developments.
