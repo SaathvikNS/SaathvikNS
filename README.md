@@ -4,8 +4,7 @@ I'm a passionate and rapid learner currently pursuing an MCA and excited to dive
 
 ### 🔧 Skills & Proficiency:
 
-Programming Languages: Above intermediate in Python, C, C++, JavaScript, HTML, CSS and MERN stack.
-Web Technologies: Lower intermediate in Java and proficient at using Linux environments.
+Programming skills: Above intermediate in Python, C, C++, JavaScript, HTML, CSS and MERN stack. Lower intermediate in Java and proficient at using Linux environments.
 Learning Agility: Capable of mastering new skills and technologies within a matter of days.
 
 ### 🎓 Education:
