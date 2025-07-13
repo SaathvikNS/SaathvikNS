@@ -19,3 +19,5 @@ Dedicated to developing innovative projects and contributing to exciting tech de
 # Learning Motivation Function
 
 This motivational function is designed to help programmers stay motivated based on their skill level and learning speed. Whether you're a beginner or an advanced coder, this function provides a fun emoji and tailored advice to keep you inspired.
+
+![Saathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaathvikNS&show_icons=true&theme=radical)
