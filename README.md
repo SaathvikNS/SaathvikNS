@@ -16,8 +16,6 @@ MCA 1st Year Student: Currently studying in my first year, eager to apply and ex
 Keenly interested in exploring a wide range of opportunities in technology.
 Dedicated to developing innovative projects and contributing to exciting tech developments.
 
-# Learning Motivation Function
-
-This motivational function is designed to help programmers stay motivated based on their skill level and learning speed. Whether you're a beginner or an advanced coder, this function provides a fun emoji and tailored advice to keep you inspired.
-
 ![Saathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaathvikNS&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaathvikNS&hide_progress=true)
