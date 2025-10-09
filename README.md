@@ -9,7 +9,7 @@ Learning Agility: Capable of mastering new skills and technologies within a matt
 
 ### 🎓 Education:
 
-MCA 1st Year Student: Currently studying in my first year, eager to apply and expand my knowledge in various tech domains.
+MCA graduate, eager to apply and expand my knowledge in various tech domains.
 
 ### 🌟 Interests & Goals:
 
